@@ -1,0 +1,7 @@
+interface:
+  display_name: "Claude 安心检查"
+  short_description: "首次配置、检查 Claude 使用链路并显示桌面安心灯"
+  default_prompt: "Use $claude-safety-check to guide my first-time Claude setup, inspect the local environment, and show the desktop safety dashboard."
+policy:
+  allow_implicit_invocation: false
+

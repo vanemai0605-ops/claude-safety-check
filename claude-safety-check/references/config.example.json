@@ -1,0 +1,13 @@
+{
+  "expected": {
+    "timeZoneId": "",
+    "languages": []
+  },
+  "firefox": {
+    "dedicatedProfileNamePattern": "claude|private"
+  },
+  "claudeCode": {
+    "activityLookbackDays": 7
+  }
+}
+

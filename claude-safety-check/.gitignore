@@ -1,0 +1,5 @@
+reports/
+config.json
+*.lnk
+state/
+backups/

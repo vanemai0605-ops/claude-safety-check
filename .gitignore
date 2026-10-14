@@ -1,0 +1,7 @@
+claude-safety-check/state/
+claude-safety-check/backups/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+
